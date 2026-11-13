@@ -2,7 +2,7 @@
 
 Specializing in Object Oriented Programming using Java, creating high-quality resources and utilities.
 
-**Experience & Technologies**
+**Experience & Technologies**<br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ![Arch](https://img.shields.io/badge/archlinux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
